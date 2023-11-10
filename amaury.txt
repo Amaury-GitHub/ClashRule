@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN-SUFFIX,push.apple.com
 # DOMAIN-SUFFIX
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
