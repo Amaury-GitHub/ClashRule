@@ -1,0 +1,17 @@
+payload:
+# DOMAIN-KEYWORD
+  - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,live.com
+# DOMAIN-SUFFIX
+  - DOMAIN-KEYWORD,safebrowsing
+  - DOMAIN-KEYWORD,crashlytics
+  - DOMAIN-KEYWORD,analytics
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,googlead
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-KEYWORD,skype
+  - DOMAIN-KEYWORD,digicert
+  - DOMAIN-KEYWORD,sentry
+  - DOMAIN-KEYWORD,microsofttranslator
+  - DOMAIN-KEYWORD,siemens
+  - DOMAIN-KEYWORD,deepl
