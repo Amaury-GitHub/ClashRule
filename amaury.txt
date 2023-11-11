@@ -14,6 +14,7 @@ payload:
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,googlead
+  - DOMAIN-KEYWORD,pagead
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
