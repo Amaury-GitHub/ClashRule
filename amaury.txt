@@ -19,8 +19,9 @@ payload:
   - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,sectigo.com
 # DOMAIN-SUFFIX
+  - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
-  - DOMAIN-KEYWORD,googlead
-  - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,nelreports
