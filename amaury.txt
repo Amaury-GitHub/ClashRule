@@ -1,5 +1,5 @@
 payload:
-# DOMAIN-KEYWORD
+# DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,icloud.com
@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,boss.com
   - DOMAIN-SUFFIX,msn.com
-# DOMAIN-SUFFIX
+# DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,safebrowsing
@@ -23,7 +23,4 @@ payload:
   - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,sectigo
   - DOMAIN-KEYWORD,nelreports
-# AD
   - DOMAIN-KEYWORD,googlead
-  - DOMAIN-KEYWORD,pagead
-  - DOMAIN-KEYWORD,ad-m
