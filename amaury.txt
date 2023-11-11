@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,boss.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,moyu.im
+  - DOMAIN-SUFFIX,unpkg.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,icloud
