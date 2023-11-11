@@ -14,7 +14,6 @@ payload:
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
