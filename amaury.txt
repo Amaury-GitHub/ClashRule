@@ -13,6 +13,7 @@ payload:
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
@@ -23,4 +24,8 @@ payload:
   - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,sectigo
   - DOMAIN-KEYWORD,nelreports
+# AD
   - DOMAIN-KEYWORD,googlead
+  - DOMAIN-KEYWORD,pagead
+  - DOMAIN-KEYWORD,ad-m
+  - DOMAIN-KEYWORD,adserver
