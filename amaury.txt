@@ -26,6 +26,7 @@ payload:
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,entrust
   - DOMAIN-KEYWORD,symcd
+  - DOMAIN-KEYWORD,0daydown
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
