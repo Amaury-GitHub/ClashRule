@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,microsofttranslator.com
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,deepl.com
@@ -20,3 +19,4 @@ payload:
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
   - DOMAIN-KEYWORD,googlead
+  - DOMAIN-KEYWORD,apple.com
