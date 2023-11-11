@@ -24,6 +24,8 @@ payload:
   - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,sectigo
   - DOMAIN-KEYWORD,nelreports
+  - DOMAIN-KEYWORD,entrust
+  - DOMAIN-KEYWORD,symcd
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
