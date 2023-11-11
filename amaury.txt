@@ -32,4 +32,5 @@ payload:
   - DOMAIN-KEYWORD,pagead
   - DOMAIN-KEYWORD,ad-m
   - DOMAIN-KEYWORD,adserver
+  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,adform
