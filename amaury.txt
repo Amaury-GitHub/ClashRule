@@ -2,10 +2,6 @@ payload:
 # DOMAIN-KEYWORD
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,lencr.org
-  - DOMAIN-SUFFIX,verisign.com
-  - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,apple-dns.net
@@ -16,12 +12,15 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,boss.com
-  - DOMAIN-SUFFIX,usertrust.com
-  - DOMAIN-SUFFIX,sectigo.com
 # DOMAIN-SUFFIX
   - DOMAIN-KEYWORD,apple.com
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
-  - DOMAIN-KEYWORD,nelreports
+  - DOMAIN-KEYWORD,lencr
+  - DOMAIN-KEYWORD,verisign
+  - DOMAIN-KEYWORD,digicert
+  - DOMAIN-KEYWORD,sentry
+  - DOMAIN-KEYWORD,usertrust
+  - DOMAIN-KEYWORD,sectigo
