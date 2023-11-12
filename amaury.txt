@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,entrust
   - DOMAIN-KEYWORD,symcd
   - DOMAIN-KEYWORD,0daydown
+  - DOMAIN-KEYWORD,ublockorigin
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
