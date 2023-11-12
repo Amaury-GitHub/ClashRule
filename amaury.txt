@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,azureedge
+  - DOMAIN-KEYWORD,msedge
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
