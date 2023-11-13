@@ -45,3 +45,4 @@ payload:
   - DOMAIN-KEYWORD,adform
   - DOMAIN-KEYWORD,adsrvr
   - DOMAIN-KEYWORD,tribalfusion
+  - DOMAIN-KEYWORD,criteo
