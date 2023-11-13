@@ -43,3 +43,4 @@ payload:
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,adform
   - DOMAIN-KEYWORD,adsrvr
+  - DOMAIN-KEYWORD,tribalfusion
