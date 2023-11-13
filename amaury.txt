@@ -46,3 +46,5 @@ payload:
   - DOMAIN-KEYWORD,adsrvr
   - DOMAIN-KEYWORD,tribalfusion
   - DOMAIN-KEYWORD,criteo
+  - DOMAIN-KEYWORD,zemanta
+  - DOMAIN-KEYWORD,quantserve
