@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,moyu.im
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,shuli.com
+  - DOMAIN-SUFFIX,loli.io
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
