@@ -35,6 +35,7 @@ payload:
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,listary
+  - DOMAIN-KEYWORD,webpkgcache
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
