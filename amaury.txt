@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,siemens.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,boss.com
   - DOMAIN-SUFFIX,msn.com
@@ -15,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,shuli.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,azureedge
