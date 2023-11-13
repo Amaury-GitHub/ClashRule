@@ -20,6 +20,7 @@ payload:
   - DOMAIN-KEYWORD,azureedge
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-KEYWORD,akamaiedge
+  - DOMAIN-KEYWORD,xboxservices
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
