@@ -48,7 +48,7 @@ payload:
   - DOMAIN-KEYWORD,shuli
 # AD
   - DOMAIN-KEYWORD,googlesyndication
-  - DOMAIN-KEYWORD,googletagmanager
+  - DOMAIN-KEYWORD,googletag
   - DOMAIN-KEYWORD,doubleclick
   - DOMAIN-KEYWORD,ad-m
   - DOMAIN-KEYWORD,adserver
