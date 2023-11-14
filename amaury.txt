@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,shuli.com
   - DOMAIN-SUFFIX,loli.io
+  - DOMAIN-SUFFIX,crisp.chat
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
