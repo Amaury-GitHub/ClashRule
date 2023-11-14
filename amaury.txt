@@ -45,6 +45,7 @@ payload:
   - DOMAIN-KEYWORD,purehub
   - DOMAIN-KEYWORD,crisp
   - DOMAIN-KEYWORD,adobe
+  - DOMAIN-KEYWORD,cookielaw
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
