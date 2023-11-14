@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,typekit.net
+  - DOMAIN-SUFFIX,jquery.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
