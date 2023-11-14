@@ -42,6 +42,7 @@ payload:
   - DOMAIN-KEYWORD,webpkgcache
   - DOMAIN-KEYWORD,purehub
   - DOMAIN-KEYWORD,crisp
+  - DOMAIN-KEYWORD,adobe
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
