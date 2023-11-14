@@ -3,19 +3,9 @@ payload:
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
-  - DOMAIN-SUFFIX,deepl.com
-  - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,siemens.com
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,boss.com
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,moyu.im
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,shuli.com
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,wp.com
-  - DOMAIN-SUFFIX,typekit.net
-  - DOMAIN-SUFFIX,jquery.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
@@ -24,7 +14,7 @@ payload:
   - DOMAIN-KEYWORD,azureedge
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-KEYWORD,akamaiedge
-  - DOMAIN-KEYWORD,xboxservices
+  - DOMAIN-KEYWORD,xbox
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
@@ -46,6 +36,16 @@ payload:
   - DOMAIN-KEYWORD,crisp
   - DOMAIN-KEYWORD,adobe
   - DOMAIN-KEYWORD,cookielaw
+  - DOMAIN-KEYWORD,typekit
+  - DOMAIN-KEYWORD,jquery
+  - DOMAIN-KEYWORD,skype
+  - DOMAIN-KEYWORD,siemens
+  - DOMAIN-KEYWORD,msn
+  - DOMAIN-KEYWORD,unpkg
+  - DOMAIN-KEYWORD,moyu
+  - DOMAIN-KEYWORD,deepl
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,shuli
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
