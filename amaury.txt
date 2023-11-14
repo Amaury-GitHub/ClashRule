@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,shuli.com
   - DOMAIN-SUFFIX,loli.io
-  - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,wp.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
@@ -41,6 +41,7 @@ payload:
   - DOMAIN-KEYWORD,listary
   - DOMAIN-KEYWORD,webpkgcache
   - DOMAIN-KEYWORD,purehub
+  - DOMAIN-KEYWORD,crisp
 # AD
   - DOMAIN-KEYWORD,googlead
   - DOMAIN-KEYWORD,pagead
