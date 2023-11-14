@@ -46,6 +46,7 @@ payload:
   - DOMAIN-KEYWORD,deepl
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,shuli
+  - DOMAIN-KEYWORD,tampermonkey
 # AD
   - DOMAIN-KEYWORD,googlesyndication
   - DOMAIN-KEYWORD,googletag
