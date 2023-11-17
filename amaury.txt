@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,boss.com
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,wp.com
+  - DOMAIN-SUFFIX,net.in
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,apple
   - DOMAIN-KEYWORD,cloudflare
