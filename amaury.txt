@@ -28,8 +28,6 @@ payload:
   - DOMAIN-KEYWORD,entrust
   - DOMAIN-KEYWORD,symcd
   - DOMAIN-KEYWORD,0daydown
-  - DOMAIN-KEYWORD,ublockorigin
-  - DOMAIN-KEYWORD,easylist
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,listary
   - DOMAIN-KEYWORD,webpkgcache
@@ -61,3 +59,5 @@ payload:
   - DOMAIN-KEYWORD,criteo
   - DOMAIN-KEYWORD,zemanta
   - DOMAIN-KEYWORD,quantserve
+  - DOMAIN-KEYWORD,ublockorigin
+  - DOMAIN-KEYWORD,easylist
