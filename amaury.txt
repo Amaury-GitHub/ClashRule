@@ -58,6 +58,7 @@ payload:
   - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,adform
   - DOMAIN-KEYWORD,adsrvr
+  - DOMAIN-KEYWORD,adtidy
   - DOMAIN-KEYWORD,tribalfusion
   - DOMAIN-KEYWORD,criteo
   - DOMAIN-KEYWORD,zemanta
