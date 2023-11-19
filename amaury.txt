@@ -17,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-KEYWORD,akamaiedge
   - DOMAIN-KEYWORD,xbox
+  - DOMAIN-KEYWORD,trafficmanager
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
