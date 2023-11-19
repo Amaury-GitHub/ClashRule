@@ -13,9 +13,9 @@ payload:
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,azureedge
+  - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,msedge
-  - DOMAIN-KEYWORD,akamaiedge
+  - DOMAIN-KEYWORD,akamai
   - DOMAIN-KEYWORD,xbox
   - DOMAIN-KEYWORD,trafficmanager
   - DOMAIN-KEYWORD,safebrowsing
