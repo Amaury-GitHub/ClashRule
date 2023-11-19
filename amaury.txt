@@ -17,8 +17,13 @@ payload:
   - DOMAIN-KEYWORD,msedge
   - DOMAIN-KEYWORD,akamai
   - DOMAIN-KEYWORD,xbox
-  - DOMAIN-KEYWORD,exp-tas
+  - DOMAIN-KEYWORD,visualstudio
+  - DOMAIN-KEYWORD,vsassets
+  - DOMAIN-KEYWORD,hockeyapp
   - DOMAIN-KEYWORD,trafficmanager
+  - DOMAIN-KEYWORD,apphb
+  - DOMAIN-KEYWORD,msecnd
+  - DOMAIN-KEYWORD,exp-tas
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,analytics
