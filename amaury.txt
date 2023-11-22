@@ -30,6 +30,7 @@ payload:
   - DOMAIN-KEYWORD,lencr
   - DOMAIN-KEYWORD,verisign
   - DOMAIN-KEYWORD,digicert
+  - DOMAIN-KEYWORD,worldssl
   - DOMAIN-KEYWORD,sentry
   - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,sectigo
