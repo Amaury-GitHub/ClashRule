@@ -58,7 +58,6 @@ payload:
   - DOMAIN-KEYWORD,tampermonkey
   - DOMAIN-KEYWORD,kaggle
 # AD
-  - DOMAIN-KEYWORD,mtalk
   - DOMAIN-KEYWORD,googlesyndication
   - DOMAIN-KEYWORD,googletag
   - DOMAIN-KEYWORD,doubleclick
