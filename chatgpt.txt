@@ -1,5 +1,7 @@
 payload:
-# chatgpt
+# disable quic
+# chrome://flags/#enable-quic
+# edge://flags/#enable-quic
   - DOMAIN-SUFFIX,ai.cn
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
