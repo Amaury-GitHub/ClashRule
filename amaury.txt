@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,msedge.net
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
