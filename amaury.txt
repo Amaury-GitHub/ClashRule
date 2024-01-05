@@ -1,6 +1,7 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,push.apple.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
