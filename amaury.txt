@@ -10,3 +10,4 @@ payload:
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
+  - DOMAIN-KEYWORD,cloudflare
