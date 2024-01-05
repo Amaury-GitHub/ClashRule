@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,recaptcha.net
 # Copilot Domains
+  - DOMAIN-KEYWORD,copilot
   - DOMAIN-SUFFIX,th.bing.com
   - DOMAIN-SUFFIX,www.bingapis.com
   - DOMAIN-SUFFIX,sapphire.api.microsoftapp.net
