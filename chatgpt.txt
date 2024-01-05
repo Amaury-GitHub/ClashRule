@@ -2,6 +2,7 @@ payload:
 # disable quic
 # chrome://flags/#enable-quic
 # edge://flags/#enable-quic
+# ChatGPT PROXY
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,ai.com
@@ -11,3 +12,29 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,recaptcha.net
+# Copilot PROXY
+  - DOMAIN-SUFFIX,th.bing.com
+  - DOMAIN-SUFFIX,www.bingapis.com
+  - DOMAIN-SUFFIX,sapphire.api.microsoftapp.net
+  - DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
+  - DOMAIN-SUFFIX,c.clarity.ms
+  - DOMAIN-SUFFIX,c.bing.com
+  - DOMAIN-SUFFIX,sydney.bing.com
+  - DOMAIN-SUFFIX,www.clarity.ms
+  - DOMAIN-SUFFIX,p.clarity.ms
+  - DOMAIN-SUFFIX,dealczars.bing-shopping.microsoft-falcon.io
+  - DOMAIN-SUFFIX,shopping.bing-shopping.microsoft-falcon.io
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,logincdn.msauth.net
+  - DOMAIN-SUFFIX,account.live.com
+  - DOMAIN-SUFFIX,acctcdn.msauth.net
+  - DOMAIN-SUFFIX,odc.officeapps.live.com
+  - DOMAIN-SUFFIX,substrate.office.com
+  - DOMAIN-SUFFIX,ssl.bing.com
+  - DOMAIN-SUFFIX,services.bingapis.com
+  - DOMAIN-SUFFIX,location.microsoft.com
+  - DOMAIN-SUFFIX,api.msn.com
+  - DOMAIN-SUFFIX,gateway.bingviz.microsoftapp.net
+  - DOMAIN-SUFFIX,in.appcenter.ms
+  - DOMAIN-SUFFIX,www.bing.com
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com
