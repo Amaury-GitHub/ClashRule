@@ -2,6 +2,7 @@ payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,msedge.net
 # DOMAIN-KEYWORD
