@@ -1,7 +1,7 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
-  - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,skype.com
@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,siemens.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,akamaiedge.net
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
