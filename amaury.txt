@@ -2,28 +2,5 @@ payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
 # DOMAIN-KEYWORD
-  - DOMAIN-KEYWORD,apple
-  - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
-  - DOMAIN-KEYWORD,analytics
-  - DOMAIN-KEYWORD,sentry
-  - DOMAIN-KEYWORD,usertrust
-  - DOMAIN-KEYWORD,nelreports
-  - DOMAIN-KEYWORD,synology
-  - DOMAIN-KEYWORD,siemens
-  - DOMAIN-KEYWORD,deepl
-# AD
-  - DOMAIN-KEYWORD,googlesyndication
-  - DOMAIN-KEYWORD,googletag
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-KEYWORD,ad-m
-  - DOMAIN-KEYWORD,adserver
-  - DOMAIN-KEYWORD,adservice
-  - DOMAIN-KEYWORD,adform
-  - DOMAIN-KEYWORD,adsrvr
-  - DOMAIN-KEYWORD,adtidy
-  - DOMAIN-KEYWORD,tribalfusion
-  - DOMAIN-KEYWORD,criteo
-  - DOMAIN-KEYWORD,zemanta
-  - DOMAIN-KEYWORD,quantserve
