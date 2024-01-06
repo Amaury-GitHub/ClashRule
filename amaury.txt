@@ -12,7 +12,10 @@ payload:
   - DOMAIN-SUFFIX,siemens.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,bing.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
+  - DOMAIN-KEYWORD,analytics
   - DOMAIN-KEYWORD,cloudflare
