@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,azureedge.net
