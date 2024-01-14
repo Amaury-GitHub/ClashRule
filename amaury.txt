@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,microsoftedgeinsider.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
