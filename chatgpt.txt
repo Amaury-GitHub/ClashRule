@@ -5,7 +5,7 @@ payload:
 # Google Domains
   - DOMAIN-SUFFIX,mtalk.google.com
 # ChatGPT Domains
-  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,cdn.auth0.com
