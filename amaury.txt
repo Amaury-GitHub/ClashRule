@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,microsoftedgeinsider.com
   - DOMAIN-SUFFIX,footprintdns.com
+  - DOMAIN-SUFFIX,aspnetcdn.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
