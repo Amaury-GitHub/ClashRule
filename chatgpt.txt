@@ -5,6 +5,7 @@ payload:
 
 # Google Domains
   - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,googleapis.cn
 # Authentication Domains
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,recaptcha.net
