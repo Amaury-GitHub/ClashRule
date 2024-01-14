@@ -4,6 +4,11 @@ payload:
 # edge://flags/#enable-quic
 # Google Domains
   - DOMAIN-SUFFIX,mtalk.google.com
+
+# Authentication Domains
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,recaptcha.net
+
 # ChatGPT Domains
   - DOMAIN-KEYWORD,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
@@ -12,8 +17,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,recaptcha.net
+
 # Copilot Domains
   - DOMAIN-KEYWORD,copilot.microsoft
   - DOMAIN-SUFFIX,th.bing.com
