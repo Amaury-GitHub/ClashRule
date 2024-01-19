@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,microsoft.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
