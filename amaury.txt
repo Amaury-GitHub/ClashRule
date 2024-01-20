@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,licdn.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
