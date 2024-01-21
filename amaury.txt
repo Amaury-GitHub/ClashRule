@@ -38,3 +38,5 @@ payload:
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,digicert
+  - DOMAIN-KEYWORD,verisign
+  - DOMAIN-KEYWORD,lencr
