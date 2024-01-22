@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,linkedin.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
