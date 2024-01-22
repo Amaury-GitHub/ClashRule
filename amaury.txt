@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,10086.click
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
