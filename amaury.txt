@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,10086.click
+  - DOMAIN-SUFFIX,gitlab.io
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
