@@ -43,3 +43,5 @@ payload:
   - DOMAIN-KEYWORD,verisign
   - DOMAIN-KEYWORD,lencr
   - DOMAIN-KEYWORD,listary
+  - DOMAIN-KEYWORD,ublockorigin
+  - DOMAIN-KEYWORD,adblock
