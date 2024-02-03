@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,msftauth.net
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
