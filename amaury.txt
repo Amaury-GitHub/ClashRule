@@ -21,9 +21,11 @@ payload:
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,microsoftedgeinsider.com
+  - DOMAIN-SUFFIX,mmicrosoftonline.com
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,msecnd.net
@@ -32,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,10086.click
   - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,onenote.net
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
