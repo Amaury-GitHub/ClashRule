@@ -35,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,10086.click
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,msocdn.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
