@@ -1,6 +1,8 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud.com
