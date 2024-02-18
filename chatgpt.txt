@@ -1,5 +1,4 @@
 payload:
-
 # Google Domains
   - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,googleapis.cn
