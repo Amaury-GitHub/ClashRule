@@ -1,7 +1,4 @@
 payload:
-# disable quic
-# chrome://flags/#enable-quic
-# edge://flags/#enable-quic
 
 # Google Domains
   - DOMAIN-SUFFIX,mtalk.google.com
