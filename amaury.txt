@@ -56,3 +56,5 @@ payload:
   - DOMAIN-KEYWORD,listary
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,adblock
+  - DOMAIN-KEYWORD,xbox
+  - DOMAIN-KEYWORD,microsoft.com
