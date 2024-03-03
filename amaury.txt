@@ -1,6 +1,7 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-KEYWORD,oray
   - DOMAIN-KEYWORD,todesk
   - DOMAIN-SUFFIX,apple.com
