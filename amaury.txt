@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft.net
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,msecnd.net
