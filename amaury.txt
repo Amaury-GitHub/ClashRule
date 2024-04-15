@@ -60,3 +60,4 @@ payload:
   - DOMAIN-KEYWORD,oray
   - DOMAIN-KEYWORD,todesk
   - DOMAIN-KEYWORD,steamstatic
+  - DOMAIN-KEYWORD,dl.steam
