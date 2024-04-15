@@ -2,8 +2,6 @@ payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-KEYWORD,oray
-  - DOMAIN-KEYWORD,todesk
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud.com
@@ -60,3 +58,6 @@ payload:
   - DOMAIN-KEYWORD,adblock
   - DOMAIN-KEYWORD,xbox
   - DOMAIN-KEYWORD,microsoft.com
+  - DOMAIN-KEYWORD,oray
+  - DOMAIN-KEYWORD,todesk
+  - DOMAIN-KEYWORD,steamstatic
