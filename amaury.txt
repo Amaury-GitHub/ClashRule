@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,linkvertise.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
