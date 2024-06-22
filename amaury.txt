@@ -1,5 +1,6 @@
 payload:
 # DOMAIN-SUFFIX
+  - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,apple.com
