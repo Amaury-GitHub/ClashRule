@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,10086.click
   - DOMAIN-SUFFIX,gitlab.io
@@ -41,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,linkvertise.com
   - DOMAIN-SUFFIX,worldoftrucks.com
+  - DOMAIN-SUFFIX,steampowered.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
