@@ -44,6 +44,8 @@ payload:
   - DOMAIN-SUFFIX,worldoftrucks.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,haom2.com
+  - DOMAIN-SUFFIX,ziffstatic.com
+  - DOMAIN-SUFFIX,statically.io
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
