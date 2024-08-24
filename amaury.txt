@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,tbcache.us
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
