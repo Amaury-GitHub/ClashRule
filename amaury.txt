@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,office.com
