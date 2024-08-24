@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,tbcache.us
+  - DOMAIN-SUFFIX,x.luxury
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
@@ -64,4 +65,3 @@ payload:
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,apple.com
-  - DOMAIN-KEYWORD,x.luxury
