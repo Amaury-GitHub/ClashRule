@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,skype.com
@@ -63,3 +62,4 @@ payload:
   - DOMAIN-KEYWORD,todesk
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,azure
+  - DOMAIN-KEYWORD,apple.com
