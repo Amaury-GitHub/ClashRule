@@ -64,3 +64,4 @@ payload:
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,x.luxury
