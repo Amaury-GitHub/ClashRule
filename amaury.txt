@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,azure.com
 # DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
