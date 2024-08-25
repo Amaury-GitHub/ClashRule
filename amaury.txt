@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,yahoo.com
-  - DOMAIN-SUFFIX,siemens.com
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
@@ -60,3 +59,4 @@ payload:
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,siemens
