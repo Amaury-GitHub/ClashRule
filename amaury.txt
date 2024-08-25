@@ -52,9 +52,6 @@ payload:
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,digicert
-  - DOMAIN-KEYWORD,verisign
-  - DOMAIN-KEYWORD,lencr
   - DOMAIN-KEYWORD,listary
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,adblock
