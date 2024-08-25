@@ -42,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,tbcache.us
   - DOMAIN-SUFFIX,x.luxury
 # DOMAIN-KEYWORD
