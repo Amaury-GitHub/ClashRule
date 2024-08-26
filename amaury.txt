@@ -3,8 +3,6 @@ payload:
   - DOMAIN-SUFFIX,datapacket.com
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,apple-dns.net
-  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,msedge.net
@@ -59,5 +57,6 @@ payload:
   - DOMAIN-KEYWORD,todesk
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,azure
-  - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,apple.
+  - DOMAIN-KEYWORD,.apple
   - DOMAIN-KEYWORD,siemens
