@@ -3,7 +3,7 @@ payload:
   - DOMAIN-KEYWORD,.cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,safebrowsing
-  - DOMAIN-KEYWORD,crashlytics.com
+  - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,amaury.eu.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
