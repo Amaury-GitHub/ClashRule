@@ -30,3 +30,5 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+# vcards
+  - DOMAIN-SUFFIX,metowolf.com
