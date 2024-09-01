@@ -7,11 +7,15 @@ payload:
   - DOMAIN-KEYWORD,amaury.eu.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,windowsupdate.com
 # apple
   - DOMAIN-SUFFIX,apple.com
 # cloudflare
