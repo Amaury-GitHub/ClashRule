@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
 # steam
   - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steampowered.com
