@@ -1,3 +1,6 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,apple.com
