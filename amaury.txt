@@ -1,5 +1,7 @@
 payload:
-# DOMAIN-SUFFIX
+# personal
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,amaury.eu.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
