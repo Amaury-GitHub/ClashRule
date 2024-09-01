@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,live.com
 # apple
   - DOMAIN-SUFFIX,apple.com
 # cloudflare
