@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,trafficmanager.net
 # apple
   - DOMAIN-SUFFIX,apple.com
 # cloudflare
