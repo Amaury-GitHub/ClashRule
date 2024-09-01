@@ -1,8 +1,10 @@
 payload:
-# personal
-  - DOMAIN-SUFFIX,cn
+# default
+  - DOMAIN-KEYWORD,.cn
   - DOMAIN-KEYWORD,-cn
-  - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-KEYWORD,safebrowsing
+  - DOMAIN-KEYWORD,crashlytics.com
+  - DOMAIN-KEYWORD,amaury.eu.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,office.com
