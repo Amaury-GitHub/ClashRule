@@ -1,6 +1,14 @@
 payload:
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,amaury.eu.org
+# microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,azure.com
+# apple
   - DOMAIN-SUFFIX,apple.com
+# cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudfront.net
