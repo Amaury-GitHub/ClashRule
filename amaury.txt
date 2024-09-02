@@ -1,7 +1,6 @@
 payload:
 # default
   - DOMAIN-KEYWORD,.cn
-  - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,amaury.eu.org
@@ -21,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,msn.com
 # apple
   - DOMAIN-SUFFIX,apple.com
 # cloudflare
@@ -30,5 +31,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+# amd
+  - DOMAIN-SUFFIX,amd.com
 # vcards
   - DOMAIN-SUFFIX,metowolf.com
