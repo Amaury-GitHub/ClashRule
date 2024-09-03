@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,visualstudio.com
 # apple
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.news
@@ -32,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,akamaihd.net
 # amd
   - DOMAIN-SUFFIX,amd.com
 # vcards
