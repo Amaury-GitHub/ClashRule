@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,msn.com
 # apple
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.news
 # cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
