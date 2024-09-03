@@ -1,6 +1,6 @@
 payload:
 # default
-  - DOMAIN-KEYWORD,.cn
+  - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,amaury.eu.org
