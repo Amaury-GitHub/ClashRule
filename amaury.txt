@@ -1,6 +1,7 @@
 payload:
 # default
   - DOMAIN-SUFFIX,cn
+  - DST-PORT,80
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,amaury.eu.org
@@ -33,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
 # amd
   - DOMAIN-SUFFIX,amd.com
