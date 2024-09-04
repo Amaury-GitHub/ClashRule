@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
@@ -22,9 +21,12 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,microsoftapp.net
-  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,appcenter.ms
+# edge
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-KEYWORD,ublockorigin
 # apple
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.news
