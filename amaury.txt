@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,appcenter.ms
 # apple
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.news
