@@ -38,5 +38,7 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
 # amd
   - DOMAIN-SUFFIX,amd.com
+# siemens
+  - DOMAIN-SUFFIX,siemens.cloud
 # vcards
   - DOMAIN-SUFFIX,metowolf.com
