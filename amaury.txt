@@ -2,6 +2,7 @@ payload:
 # default
   - DOMAIN-SUFFIX,cn
   - DST-PORT,80
+  - DST-PORT,8080
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,amaury.eu.org
