@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,sfx.ms
 # edge
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
