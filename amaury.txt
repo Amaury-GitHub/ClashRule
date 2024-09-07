@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,microsofttranslator.com
 # edge
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
