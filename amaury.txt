@@ -5,7 +5,9 @@ payload:
   - DST-PORT,8080
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
+  - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,amaury.eu.org
+  - DOMAIN-SUFFIX,homarr.dev
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
@@ -50,3 +52,6 @@ payload:
   - DOMAIN-SUFFIX,siemens.cloud
 # vcards
   - DOMAIN-SUFFIX,metowolf.com
+# speedtest
+  - DOMAIN-SUFFIX,yangcongxueyuan.com
+  - DOMAIN-SUFFIX,banmaapp.com
