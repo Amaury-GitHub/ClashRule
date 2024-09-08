@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
@@ -28,6 +27,9 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,sfx.ms
+# office
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,onenote.com
 # edge
   - DOMAIN-SUFFIX,bing.com
