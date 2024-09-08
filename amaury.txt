@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,amaury.eu.org
   - DOMAIN-SUFFIX,homarr.dev
+  - DOMAIN-SUFFIX,ntp.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
