@@ -59,3 +59,5 @@ payload:
 # speedtest
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
+# other
+  - DOMAIN-SUFFIX,rumanhua.com
