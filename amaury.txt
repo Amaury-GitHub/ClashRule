@@ -8,7 +8,8 @@ payload:
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,amaury.eu.org
-  - DOMAIN-SUFFIX,homarr.dev
+  - DOMAIN-KEYWORD,homarr
+  - DOMAIN-KEYWORD,ublockorigin
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
@@ -36,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-SUFFIX,microsofttranslator.com
 # apple
   - DOMAIN-SUFFIX,apple.com
