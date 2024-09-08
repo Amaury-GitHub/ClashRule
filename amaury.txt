@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,onenote.com
 # edge
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-SUFFIX,microsofttranslator.com
