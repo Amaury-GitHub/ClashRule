@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
 # siemens
   - DOMAIN-SUFFIX,siemens.cloud
+  - DOMAIN-SUFFIX,siemens.com
 # vcards
   - DOMAIN-SUFFIX,metowolf.com
 # speedtest
