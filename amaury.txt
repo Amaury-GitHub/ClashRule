@@ -10,6 +10,8 @@ payload:
   - DOMAIN-KEYWORD,amaury.eu.org
   - DOMAIN-KEYWORD,homarr
   - DOMAIN-KEYWORD,ublockorigin
+  - DOMAIN-SUFFIX,metowolf.com
+  - DOMAIN-SUFFIX,listary.com
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
@@ -56,8 +58,6 @@ payload:
   - DOMAIN-SUFFIX,siemens.cloud
   - DOMAIN-SUFFIX,siemens.com
   - DOMAIN-SUFFIX,siemens.de
-# vcards
-  - DOMAIN-SUFFIX,metowolf.com
 # speedtest
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
