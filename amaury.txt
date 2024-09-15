@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
 # office
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
