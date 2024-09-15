@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,metowolf.com
   - DOMAIN-SUFFIX,listary.com
   - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,tampermonkey.net
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
