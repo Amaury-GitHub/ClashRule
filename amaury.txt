@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,licdn.com
 # edge
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
