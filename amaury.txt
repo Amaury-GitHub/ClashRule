@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,akadns.net
 # cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
