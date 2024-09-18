@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,listary.com
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,greasyfork.org
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
