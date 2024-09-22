@@ -16,6 +16,11 @@ payload:
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,deepl.com
+# github
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,staticfile.org
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,baomitu.com
 # microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,s-microsoft.com
