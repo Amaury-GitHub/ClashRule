@@ -16,8 +16,8 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,deepl.com
 # ublockorigin
-  - DOMAIN-SUFFIX,ublockorigin.com
-  - DOMAIN-SUFFIX,adblockplus.org
+  - DOMAIN-KEYWORD,ublockorigin
+  - DOMAIN-KEYWORD,adblockplus
 # github
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,staticfile.org
