@@ -84,3 +84,4 @@ payload:
 # other
   - DOMAIN-SUFFIX,rumanhua.com
   - DOMAIN-SUFFIX,srip.net
+  - DOMAIN-SUFFIX,tripcdn.com
