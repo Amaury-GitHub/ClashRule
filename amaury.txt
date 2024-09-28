@@ -8,13 +8,12 @@ payload:
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,amaury.eu.org
-  - DOMAIN-KEYWORD,homarr
-  - DOMAIN-SUFFIX,metowolf.com
-  - DOMAIN-SUFFIX,listary.com
-  - DOMAIN-SUFFIX,vmware.com
-  - DOMAIN-SUFFIX,tampermonkey.net
-  - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-KEYWORD,metowolf
+  - DOMAIN-KEYWORD,listary
+  - DOMAIN-KEYWORD,vmware
+  - DOMAIN-KEYWORD,tampermonkey
+  - DOMAIN-KEYWORD,greasyfork
+  - DOMAIN-KEYWORD,deepl
 # ublockorigin
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,adblockplus
