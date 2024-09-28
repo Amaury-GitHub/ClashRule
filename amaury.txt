@@ -83,3 +83,4 @@ payload:
   - DOMAIN-SUFFIX,banmaapp.com
 # other
   - DOMAIN-SUFFIX,rumanhua.com
+  - DOMAIN-SUFFIX,srip.net
