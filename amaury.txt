@@ -14,7 +14,6 @@ payload:
   - DOMAIN-KEYWORD,tampermonkey
   - DOMAIN-KEYWORD,greasyfork
   - DOMAIN-KEYWORD,deepl
-  - DOMAIN-KEYWORD,beqege
 # ublockorigin
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,adblockplus
@@ -86,3 +85,4 @@ payload:
   - DOMAIN-SUFFIX,rumanhua.com
   - DOMAIN-SUFFIX,srip.net
   - DOMAIN-SUFFIX,tripcdn.com
+  - DOMAIN-SUFFIX,beqege.cc
