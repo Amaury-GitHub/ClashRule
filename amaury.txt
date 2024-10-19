@@ -79,6 +79,8 @@ payload:
 # speedtest
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
+# todesk
+  - IP-CIDR,43.135.0.0/18
 # other
   - DOMAIN-SUFFIX,rumanhua.com
   - DOMAIN-SUFFIX,srip.net
