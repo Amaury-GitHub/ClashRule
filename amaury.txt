@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,gfx.ms
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msedge.net
 # office
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
