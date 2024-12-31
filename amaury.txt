@@ -14,8 +14,6 @@ payload:
   - DOMAIN-KEYWORD,tampermonkey
   - DOMAIN-KEYWORD,greasyfork
   - DOMAIN-KEYWORD,deepl
-# getip
-  - DOMAIN-SUFFIX,ip.3322.net
 # ublockorigin
   - DOMAIN-KEYWORD,ublockorigin
   - DOMAIN-KEYWORD,adblockplus
