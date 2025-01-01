@@ -64,9 +64,6 @@ payload:
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,akadns.net
-# cloudflare
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudfront.net
 # steam
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamserver.net
